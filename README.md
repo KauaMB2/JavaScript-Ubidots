@@ -2,11 +2,11 @@
 
 > O intuito desse commit é deixar salvo um exemplo em HTML, CSS e JS de uma conexão feita com o Ubidots, uma plataforma de IoT.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/JavaScript-Ubidots?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/JavaScript-Ubidots?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/JavaScript-Ubidots?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/JavaScript-Ubidots?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/JavaScript-Ubidots?style=for-the-badge)
 <hr>
 
 ## Feito Com:
