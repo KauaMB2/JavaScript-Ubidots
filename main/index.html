@@ -1,0 +1,43 @@
+<!-- UBIDOTS -->
+<!DOCTYPE html>
+<html>
+	<meta charset="UTF-8">
+	<head>
+		<title>UBIDOTS TESTER</title>
+		<div>
+			<h1>Ubidots</h1>
+		</div>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<div class="Envio">
+			<label>Botão</label>
+			<br>
+			<button onclick="EnviarUbidots(1)"> LIGADO </button>
+			<button onclick="EnviarUbidots(0)"> DESLIGADO </button>
+			<br>
+			<br>
+			<label>Sensor de humidadade</label>
+			<br>
+			<input id="umidade"></input>
+			<br>
+			<button onclick="EnviarUbidots(null)"> ENVIAR </button>
+			<br>
+			<label id="resposta"></label>
+			<br>
+			<label>Valor do led</label>
+			<br>
+			<button onclick="ReceberLed()"> RECEBER </button>
+			<label id="resposta_led"></label>
+			<br>
+			<br>
+			<label>Valor do slider</label>
+			<br>
+			<button onclick="ReceberAquecedor()"> RECEBER </button>
+			<label id="resposta_aquecedor"></label>
+			<br>
+			<br>
+		</div>
+	</body>
+</html>

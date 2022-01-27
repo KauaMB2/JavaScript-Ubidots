@@ -1,0 +1,21 @@
+body{
+	background-image: url("fundo.jpg");
+}
+div h1{
+	border:1px solid black;
+	margin-top: 0px;
+	width: 1024px;
+	height: 60px;
+	background-color: #fff;
+	color: #000;
+}
+.Envio{
+	border:1px solid black;
+	width: 300px;
+	height: 300px;
+	margin-top: 30px;
+    margin-left: 334px;
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 10px;
+}
